@@ -63,6 +63,52 @@ Voyager crew roster:
 		-hand to hand combat(Attribute used when character is engaged in hand to hand combat. Value 0-1000)
 		-HP (Health)
 		-medical status (notes of effects such as limb damage [which effect ranged combat if arm, and hand to hand if leg], illness [such things include contracting the phage])
-
-
 ==================================================================================================================================
+
+12-12-2017 (3:38pm):
+Discussion with Joel. need to focus on segments for development of concept. So for characters, what are the stats, what do those stats effect, how are those states effected. That sort of thing.
+
+To Do: 
+Character class:
+Define what each attribute is.
+Define what each attribute does.
+Define what each attribute effects, if any.
+Define how each attribute is affected.
+attributes -
+	name
+	gender 
+	rank
+	mission role
+	science rating
+	engineering rating
+	ranged combat rating
+	hand to hand combat rating
+	regeneration
+	stress
+	fortitutde
+	mental fortitude
+	morale
+
+other thoughts:
+how is combat handled? how would things like phasers vs kazon disruptors effect combat? 
+Levels of disabilities:
+I want every level of disability from "It's a minor rash" which occasionally causes the crew member to take .1% longer to complete a task, up to "Full life support" making all taskes excruciatingly hard to accomplish (This Pike in a wheel chair) and still have death as a possible result.
+Joel: have 5 or six levels of diability ranging from "Fully healed" This ranking would apply to each part of the body.
+body parts:
+0 - Head
+1 - Torso
+2 - Right arm
+3 - Left Arm
+4 - Right leg
+5 - Left Leg
+6 - legs
+
+
+
+
+0 - "Fully healed"
+1 - "minor irratants, scratches, maybe cuts, possibly having eaten Nelix's cooking."
+2 - "major irratants, heavy scratches, cat 1-2 burns, not life threatening on their own, painful but only a little affect to performance. Say like a 10% decrease in abilities (would it effect all abilities?)
+3 -  "major deterrent from use. 50~75% decrease in abilities
+4 - "debilitated and not useful due to injury, but will recover in time" 
+5 - "Completely useless due to injury (Example: Nelix loosing his lungs)"
