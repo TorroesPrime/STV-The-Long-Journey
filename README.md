@@ -8,7 +8,8 @@ Just like the name implies, instead of controlling speccific assets you manage t
 
 Development notes: This section will be any accumulated notes regarding the game.
 ==================================================================================================================================
-STar Trek Voyager The Long Journey: You would take on the role of Captain Janeway as she attempts to lead the USS Voyager home from the delta quadrant, a journy they by all estimates will take over 75 years. You must pick the right people for the right jobs to maximize your chances not only of survival, but also in gathering supplies to maintain your ship and crew, but also in obtaining additional tech to aide you in your journey. The game itself would would be a roster management game with minimal graphics. The over all idea is you would have a roster of crew members. Each crew member would have their respective stats including race, gender, rank, mission role, science rating, engineering rating, ranged combat rating, hand to hand combat rating, regeneration, stress, fortitutde, mental fortitude and morale. These stats would be used in under taking various missions and assignments. 
+
+Star Trek Voyager The Long Journey: You would take on the role of Captain Janeway as she attempts to lead the USS Voyager home from the delta quadrant, a journy they by all estimates will take over 75 years. You must pick the right people for the right jobs to maximize your chances not only of survival, but also in gathering supplies to maintain your ship and crew, but also in obtaining additional tech to aide you in your journey. The game itself would would be a roster management game with minimal graphics. The over all idea is you would have a roster of crew members. Each crew member would have their respective stats including race, gender, rank, mission role, science rating, engineering rating, ranged combat rating, hand to hand combat rating, regeneration, stress, fortitutde, mental fortitude and morale. These stats would be used in under taking various missions and assignments. 
 
 So you would have several screens that would allow you to view damage to the ship, details about upgrades to the ship, view crew roster, department assignments, and missions assignments. 
 
@@ -23,18 +24,18 @@ example:
    Phaser array 3 has been destroyed, lowering the ships combat capabilities.
    deck 6, section 8 has been destroyed. 8 crew members must be housed in other quarters, raising their stress levels by 2 points.
 
-Voyager crew roster:
-	manage crew roster for a ship.
-	able to assign officers
-		ex: First Officer
-	able to assign personell to different departments
-		ex: assign ensin Peller to medical as medical support.
-	able to recruit new crew members up to max ship capacity
-		Department list:
-		- Engineering
-				- Chief Engineer
-				- transporter chief(s)
-				- Crew Chief
+	Voyager crew roster:
+		manage crew roster for a ship.
+		able to assign officers
+			ex: First Officer
+		able to assign personell to different departments
+			ex: assign ensin Peller to medical as medical support.
+		able to recruit new crew members up to max ship capacity
+			Department list:
+			- Engineering
+					- Chief Engineer
+					- transporter chief(s)
+					- Crew Chief
 		- science
 			- Medical
 				- Chief medical officer
@@ -63,7 +64,7 @@ Voyager crew roster:
 		-hand to hand combat(Attribute used when character is engaged in hand to hand combat. Value 0-1000)
 		-HP (Health)
 		-medical status (notes of effects such as limb damage [which effect ranged combat if arm, and hand to hand if leg], illness [such things include contracting the phage])
-==================================================================================================================================
+
 
 12-12-2017 (3:38pm):
 Discussion with Joel. need to focus on segments for development of concept. So for characters, what are the stats, what do those stats effect, how are those states effected. That sort of thing.
