@@ -24,33 +24,33 @@ example:
    - Phaser array 3 has been destroyed, lowering the ships combat capabilities.
    - deck 6, section 8 has been destroyed. 8 crew members must be housed in other quarters, raising their stress levels by 2 points.
 
-	Voyager crew roster:
-		manage crew roster for a ship.
-		able to assign officers
-			ex: First Officer
-		able to assign personell to different departments
-			ex: assign ensin Peller to medical as medical support.
-		able to recruit new crew members up to max ship capacity
-			Department list:
-			- Engineering
+- Voyager crew roster:
+	-manage crew roster for a ship.
+		-able to assign officers
+			-ex: First Officer
+		-able to assign personell to different departments
+			-ex: assign ensin Peller to medical as medical support.
+		-able to recruit new crew members up to max ship capacity
+			-Department list:
+				- Engineering
 					- Chief Engineer
 					- transporter chief(s)
 					- Crew Chief
-		- science
-			- Medical
-				- Chief medical officer
+			- science
+				- Medical
+					- Chief medical officer
 			- Astro-Metrics 
 			- life sciences
 			- infectious diseases and mediums
 			- genetics
-		- Operations
-			- Navigation
-			- Stellar Cartography 
+			- Operations
+				- Navigation
+				- Stellar Cartography 
 			- tactical Officer
-			- security chief
-			- security
-	able to assign personell to mission for X-time or until mission complete
-	character attributes include: 
+				- security chief
+				- security
+		- able to assign personell to mission for X-time or until mission complete
+	- character attributes include: 
 		-name
 		-age
 		-grade
