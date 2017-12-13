@@ -21,8 +21,8 @@ Captains Command center: the CCC provides the overall view of the ship status an
 - away team report: Display the current status of any currently active away missions.
 - tactical display: would display current status of the ship and it's weapon system. Display would include a wire frame display of the ship with sections picked out in color to denote damage levels. Green would indicate normal operation and no damage. teal would indicate up to 15% damage to that area, but otherwise operational. blue would indicate damge more then 15% and up to 35% with up to 25% impaired functionality. Blue would indicate up to 50% damage and 50% function impairment. violete would be up to 65% damage, but still 50% function impairment, while red would indicate up to 85% damage with 75% impairment. Flashing red would indicate up to 99% damage and 100% lose of functionality. black means that section/subsystem has been destroyed and must be rebuilt before the functionality can be restored.
 example:
-   Phaser array 3 has been destroyed, lowering the ships combat capabilities.
-   deck 6, section 8 has been destroyed. 8 crew members must be housed in other quarters, raising their stress levels by 2 points.
+   - Phaser array 3 has been destroyed, lowering the ships combat capabilities.
+   - deck 6, section 8 has been destroyed. 8 crew members must be housed in other quarters, raising their stress levels by 2 points.
 
 	Voyager crew roster:
 		manage crew roster for a ship.
