@@ -119,4 +119,4 @@ body parts:
 
 12-14-2017 (3:17pm):
 Something I would like to impliment in the program. Each time a 'New Game' is loaded, the player would have the option to "Include characters from the show" or to "Not include characters from the show." 
-If they opt to include the characters, then they will presented with a screen to 
+If they opt to include the characters, then they will presented with a screen to select which characters they can include. Otherwise all the characters are randomly generated for each 'new game'.
