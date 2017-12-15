@@ -5,6 +5,9 @@ This is a fan project to develop a roster management game based on the show Star
 What is a roster Management game?
 Just like the name implies, instead of controlling speccific assets you manage those assets by roster. In the case of the plans for this game, the assets to be managed are the crew of the USS Voyager and you manage them by assigning them to missions and departments. So you can assign Ensign Kim to operations, or you can assign him to Sick bay. He will perform better in some departments then others based on his individual traits and skills so you will want to maximize his contributions to the ship by assigning him to departments and missions that suite his skills. However, there could be times where he is the best option for a department or mission that he is only moderatly skilled in due to mission demands or injuried/killed crew members. 
 
+Major points about the game?
+The Long Journey is intended to be a largely open ended roster management game that starts with the USS Voyager and the Maquis ship, The Val Jean, having been pulled across the galaxy into the Delta quadrant. From this point onwards your decisions will effect how the ship suffers or prospers. Will you integrate the Maquis crew into your own? Or will you execute them all? Will you allie with the Kazon or declare war on them? These are all options that will be availible to the player. The player's choices will affect what crew member live and die while also having the ability to recruit new crew members during the process of a game.
+
 
 Development notes: This section will be any accumulated notes regarding the game.
 ==================================================================================================================================
@@ -93,7 +96,7 @@ attributes -
 other thoughts:
 how is combat handled? how would things like phasers vs kazon disruptors effect combat? 
 Levels of disabilities:
-I want every level of disability from "It's a minor rash" which occasionally causes the crew member to take .1% longer to complete a task, up to "Full life support" making all taskes excruciatingly hard to accomplish (This Pike in a wheel chair) and still have death as a possible result.
+I want every level of disability from "It's a minor rash" which occasionally causes the crew member to take .1% longer to complete a task, up to "Full life support" making all taskes excruciatingly hard to accomplish (This would be like Pike in a wheel chair) and still have death as a possible result.
 Joel: have 5 or six levels of diability ranging from "Fully healed" This ranking would apply to each part of the body.
 body parts:
 0 - Head
@@ -113,3 +116,7 @@ body parts:
 3 -  "major deterrent from use. 50~75% decrease in abilities
 4 - "debilitated and not useful due to injury, but will recover in time" 
 5 - "Completely useless due to injury (Example: Nelix loosing his lungs)"
+
+12-14-2017 (3:17pm):
+Something I would like to impliment in the program. Each time a 'New Game' is loaded, the player would have the option to "Include characters from the show" or to "Not include characters from the show." 
+If they opt to include the characters, then they will presented with a screen to 
