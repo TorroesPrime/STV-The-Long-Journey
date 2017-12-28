@@ -8,6 +8,10 @@ Just like the name implies, instead of controlling speccific assets you manage t
 Major points about the game?
 The Long Journey is intended to be a largely open ended roster management game that starts with the USS Voyager and the Maquis ship, The Val Jean, having been pulled across the galaxy into the Delta quadrant. From this point onwards your decisions will effect how the ship suffers or prospers. Will you integrate the Maquis crew into your own? Or will you execute them all? Will you allie with the Kazon or declare war on them? These are all options that will be availible to the player. The player's choices will affect what crew member live and die while also having the ability to recruit new crew members during the process of a game.
 
+How do you win the game?
+By default the game will operate on the 'The Long Journey' Mission. Every day of in-game time that this mission is being under taken, the ship will be recorded as having traveled 100 light years. When this mission has totaled 70,000 light years traveled, the player will win the game. 
+- Under taking other missions that require travel time do not add to this total.
+- possibility of one-time events adding a set amount to the distance traveled. (Ex: Kes throwing voyager 10k light years).
 
 Development notes: This section will be any accumulated notes regarding the game.
 ==================================================================================================================================
