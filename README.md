@@ -120,3 +120,66 @@ body parts:
 12-14-2017 (3:17pm):
 Something I would like to impliment in the program. Each time a 'New Game' is loaded, the player would have the option to "Include characters from the show" or to "Not include characters from the show." 
 If they opt to include the characters, then they will presented with a screen to select which characters they can include. Otherwise all the characters are randomly generated for each 'new game'.
+
+12-27-2017 (Vulpus)
+Each crew member would have their respective stats including race,(racial buffs/debuff, language barriers?)
+- I hadn't originally considered language barriers but being asked the question is making me think about it. At the level the game operates I don't think it would be a benefit to make it speccific languages, but rather a generic communication. So like Torroes would have a moderate 'communication' stat, but Tuvok and Kes would have much higher stats. Tuvok because of his controlled demeanor and rational mind and Kes because of her Telepathy.
+
+gender,(should this really effect stats or just be a boolean for social situations in game)
+- Yes there would be gender modifiers but it would be influenced by species. So like human male, vs human female:  1(race) * 1.05(male) bonus to strength versus 1(race) * 1(female) bonus to strength.
+
+if i roster the same male and female long enough will they have a relationship? will there be a sex/love stat?
+- there can be friendship/romantic involvement. 
+Thoughts on this:
+- having someone on the ship/mission that the character is friends with reduces stress levels by a given percentage.
+- having some on the mission that the character is in love with would decrease the characters effective thinking (worrying about your love).
+
+can there be children to add to rosters? eugenics, can i breed stats?
+- No you can not breed stats. Children is something to consider, but there are two things to consider. 1- With 200 max pop on the ship and needing a bare minimum of 75 to operate the ship (that is operate, not operate it effectively) there won't be a lot of room for 'breeding'. So while children can occure, I don't it to be an event that occures more then 2 to 3 times per calendar year in-game.
+
+human security officer + vulcan security officer = high as fuck hand to hand stats?
+- um... not sure what you are asking here. I mean a Vulcan security officer would certainly have higher HtH and Strength Stats then a human one.
+
+rank,(based on merit of decisions made during missions or on exp and general time spent deployed?)
+- Rank is something that the character is assigned at generation. However, as the character gains XP it will gain the option to be promoted. 
+note: Need to compile list of ranks.
+
+mission role,(can this change during a mission? can they return from a mission "kim demoted because chikote is dead, its kims fault")
+- Change in rank will always be as a result of player action. The game will not change rank, but the player always has the option to demote someone, and when the character reaches a level threash hold that character will have the option to be promoted to a given rank.
+-The character is not required to be promoted. You can keep Kim an ensign if you like even if he gains sufficient XP to be promoted to commander.
+- A character can not skip a rank. They can not go from Leiutenant JG to Lt. Commander for instance. They would need to be promoted to Full Leiutenent, and then to Lt. Commander.
+
+science rating,(improved steady while on ship sporatic during mission? race effect growth rate?)
+- Um... not sure what you are asking.
+
+engineering rating,(same question as science rating)
+- And just like with science rating, not sure what you are asking.
+
+ranged combat rating,(include primitive weapons? makeshift bow or atlatl while planet side etc etc?)
+- Ranged combat is used to determine how effective the character in ranged combat regardless of the weapon in question. However, a phaser rifle is going to cause more damage to a target then a make shift bow.
+
+hand to hand combat rating,(with or without weapons or both same skill?)
+- same skill regardless. Weapons can effect the damage inflicted.
+
+regeneration,(race specific? being on ship increases rates? during mission slows?)
+- Correct on all accounts. For example: 7 of 9 would have a very high regeneration rate when she is on the ship, while Janeway would have a low-medium regeneration rate when on a mission.
+- Regeneration rates can be effects by availible supplies such as food, energy, water, or medical supplies.
+
+stress,(yet again race effected? would this fall under mental fort? too much time on ship without mission cause stress?)
+- stress can be effected by race. Klingons for instance would have a negative modifier to handling stress while Vulcans would have a bonus to it. 
+- Not sure about the on-ship vs off-ship question. Will need to think on that.
+
+fortitutde,(can this be trained?, race effect?, gender effect?)
+- I need to do some brain storming to really figure out what fortitude is. My original thought was about how physically resillient a character is, so like Be'Lanna and 7 of 9 would be really high, but like Kes would be fairly low.
+
+mental fortitude(vulcans get a bonus, race effect again? effected by stress and morale? all three stats seem related)
+- Vulcans would definitly get a bonus here, as would Kes. This stat is intended to be used to reference psychic type attacks or conditions. So a higher mental fortitude would indicate the character is less likely to sucumb to possession, telepathic suggestion, etc.
+
+morale.(same questions as stress and mental fort. time on/off ship good or bad effect)
+- morale can not be trained, but can be affected by a variety of factors including the characters relationship with others (being with people they like raises morale, being with people they don't like lowers it), stress will lower it, lack of food lowers it, lack of medical supplies will lower it. The big thing is that the morale is a meassure of how readily satisified the character is. If it gets too low (a value that would be assigned on a per-character basis) then there is an increased chance of the character performing poorly at their assignments or even rebelling.
+
+
+resources effect? does the ship and supplies have stats which could effect the characters?)
+- Yes, the supplies on the ship do effect the characters.
+- Too little food: negative effect on moral, increasing stress, decreases regeneration rates. Engineering, science, Ranged Combat, and HtH tests would be negatively effected.
+- too little energy: negative effect on moral, increasing stress
