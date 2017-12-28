@@ -1,15 +1,19 @@
 # STV-The-Long-Journey
 Overview of the Project:
-This is a fan project to develop a roster management game based on the show Star Trek Voyager. This is not intended to be sold and should not be considered to be sold in any fashion. My primary goal in making this is to under take a project to expand my skills as a programmer, expand my expierence with python speccifically, and to learn how to use Github. 
+
+-This is a fan project to develop a roster management game based on the show Star Trek Voyager. This is not intended to be sold and should not be considered to be sold in any fashion. My primary goal in making this is to under take a project to expand my skills as a programmer, expand my expierence with python speccifically, and to learn how to use Github. 
 
 What is a roster Management game?
-Just like the name implies, instead of controlling speccific assets you manage those assets by roster. In the case of the plans for this game, the assets to be managed are the crew of the USS Voyager and you manage them by assigning them to missions and departments. So you can assign Ensign Kim to operations, or you can assign him to Sick bay. He will perform better in some departments then others based on his individual traits and skills so you will want to maximize his contributions to the ship by assigning him to departments and missions that suite his skills. However, there could be times where he is the best option for a department or mission that he is only moderatly skilled in due to mission demands or injuried/killed crew members. 
+
+-Just like the name implies, instead of controlling speccific assets you manage those assets by roster. In the case of the plans for this game, the assets to be managed are the crew of the USS Voyager and you manage them by assigning them to missions and departments. So you can assign Ensign Kim to operations, or you can assign him to Sick bay. He will perform better in some departments then others based on his individual traits and skills so you will want to maximize his contributions to the ship by assigning him to departments and missions that suite his skills. However, there could be times where he is the best option for a department or mission that he is only moderatly skilled in due to mission demands or injuried/killed crew members. 
 
 Major points about the game?
-The Long Journey is intended to be a largely open ended roster management game that starts with the USS Voyager and the Maquis ship, The Val Jean, having been pulled across the galaxy into the Delta quadrant. From this point onwards your decisions will effect how the ship suffers or prospers. Will you integrate the Maquis crew into your own? Or will you execute them all? Will you allie with the Kazon or declare war on them? These are all options that will be availible to the player. The player's choices will affect what crew member live and die while also having the ability to recruit new crew members during the process of a game.
+
+-The Long Journey is intended to be a largely open ended roster management game that starts with the USS Voyager and the Maquis ship, The Val Jean, having been pulled across the galaxy into the Delta quadrant. From this point onwards your decisions will effect how the ship suffers or prospers. Will you integrate the Maquis crew into your own? Or will you execute them all? Will you allie with the Kazon or declare war on them? These are all options that will be availible to the player. The player's choices will affect what crew member live and die while also having the ability to recruit new crew members during the process of a game.
 
 How do you win the game?
-By default the game will operate on the 'The Long Journey' Mission. Every day of in-game time that this mission is being under taken, the ship will be recorded as having traveled 100 light years. When this mission has totaled 70,000 light years traveled, the player will win the game. 
+
+-By default the game will operate on the 'The Long Journey' Mission. Every day of in-game time that this mission is being under taken, the ship will be recorded as having traveled 100 light years. When this mission has totaled 70,000 light years traveled, the player will win the game. 
 - Under taking other missions that require travel time do not add to this total.
 - possibility of one-time events adding a set amount to the distance traveled. (Ex: Kes throwing voyager 10k light years).
 
